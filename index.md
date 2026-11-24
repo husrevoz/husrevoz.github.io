@@ -8,4 +8,4 @@ Web uygulama güvenliği, zafiyet analizi ve makine çözümleri arşivi.
 
 | Makine Adı | İşletim Sistemi | Zorluk | Odak Noktası |
 | :--- | :---: | :---: | :--- |
-| [WebGate](./writeups/htb-webgate.html) | Linux | Easy | OS Command Injection, SUID PrivEsc |
+| [Cap](./writeups/htb-cap.html) | Linux | Easy | IDOR, Cleartext Credentials, Linux Capabilities |
