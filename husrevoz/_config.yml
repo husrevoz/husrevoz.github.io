@@ -1,0 +1,7 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+title: husrevoz // Security Write-ups
+description: Hack The Box, CTF Çözümleri ve Web Güvenliği Notları
+show_downloads: false
