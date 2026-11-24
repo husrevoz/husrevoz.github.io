@@ -82,4 +82,14 @@ cat root.txt
 
 ---
 
+## 6. Tamamlama Kanıtları (HTB Guided Mode & Pwned)
+
+![Cap Makine Özeti ve Keşif](../assets/images/cap/pwned.jpg)
+
+![IDOR ve PCAP Analizi Görevleri](../assets/images/cap/2-pwned.jpg)
+
+![User Flag ve Yetki Yükseltme Görevleri](../assets/images/cap/3-pwned.jpg)
+
+![Root Flag ve Tamamlama Onayı](../assets/images/cap/4-pwned.jpg)
+
 [<- Ana Sayfaya Dön](../index.html)
