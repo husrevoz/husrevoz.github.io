@@ -8,4 +8,4 @@ Web uygulama güvenliği, zafiyet analizi ve makine çözümleri arşivi.
 
 | Makine Adı | İşletim Sistemi | Zorluk | Odak Noktası |
 | :--- | :---: | :---: | :--- |
-| [Cap](./writeups/htb-cap.html) | Linux | Easy | IDOR, Cleartext Credentials, Linux Capabilities |
+| [Cap](./writeups/htb-cap.md) | Linux | Easy | IDOR, Cleartext Credentials, Linux Capabilities |
